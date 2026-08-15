@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/monishs777/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/monishs777/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
