@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/monishs777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
