@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/monishs777/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
