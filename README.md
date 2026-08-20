@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/monishs777/Leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/monishs777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
