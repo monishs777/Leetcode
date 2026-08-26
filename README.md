@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monishs777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/monishs777/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/monishs777/Leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/monishs777/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/monishs777/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/monishs777/Leetcode/tree/master/0389-find-the-difference) |
