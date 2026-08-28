@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishs777/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
