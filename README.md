@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/monishs777/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monishs777/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/monishs777/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishs777/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/monishs777/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/monishs777/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/monishs777/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
