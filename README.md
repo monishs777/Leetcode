@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/monishs777/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/monishs777/Leetcode/tree/master/0709-to-lower-case) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/monishs777/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Array
 |  |
 | ------- |
