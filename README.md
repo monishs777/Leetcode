@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/monishs777/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/monishs777/Leetcode/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/monishs777/Leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/monishs777/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/monishs777/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monishs777/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/monishs777/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/monishs777/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
