@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/monishs777/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 | [1528-shuffle-string](https://github.com/monishs777/Leetcode/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monishs777/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/monishs777/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishs777/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -109,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/monishs777/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
