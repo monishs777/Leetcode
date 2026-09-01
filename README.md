@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/monishs777/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/monishs777/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishs777/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/monishs777/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/monishs777/Leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/monishs777/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/monishs777/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/monishs777/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/monishs777/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/monishs777/Leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
