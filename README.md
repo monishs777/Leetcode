@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monishs777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/monishs777/Leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishs777/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/monishs777/Leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/monishs777/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/monishs777/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/monishs777/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishs777/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/monishs777/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/monishs777/Leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishs777/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/monishs777/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/monishs777/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
