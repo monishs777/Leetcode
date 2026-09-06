@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/monishs777/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/monishs777/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/monishs777/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Binary Search
 |  |
