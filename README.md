@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/monishs777/Leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/monishs777/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/monishs777/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/monishs777/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 | [1528-shuffle-string](https://github.com/monishs777/Leetcode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/monishs777/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/monishs777/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/monishs777/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/monishs777/Leetcode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/monishs777/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/monishs777/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
