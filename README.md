@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/monishs777/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/monishs777/Leetcode/tree/master/0877-stone-game) |
 | [1528-shuffle-string](https://github.com/monishs777/Leetcode/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/monishs777/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monishs777/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monishs777/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/monishs777/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
