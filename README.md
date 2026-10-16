@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/monishs777/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/monishs777/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3895-count-digit-appearances](https://github.com/monishs777/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/monishs777/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3895-count-digit-appearances](https://github.com/monishs777/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
