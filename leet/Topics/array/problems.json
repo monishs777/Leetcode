@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T15:35:00.898Z",
+  "updatedAt": "2026-10-16T15:35:47.721Z",
   "problems": [
+    {
+      "frontendId": "3190",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "problemName": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "folderPath": "leet/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "readmePath": "leet/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three.java",
+          "path": "leet/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.java",
+          "sha": "b3582e5f2dff3c1e1b16a4ab62f8fa3e65b3b2ea",
+          "lastSyncedAt": "2026-10-16T15:35:47.721Z"
+        }
+      ]
+    },
     {
       "frontendId": "3300",
       "title": "Minimum Element After Replacement With Digit Sum",
