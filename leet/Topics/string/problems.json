@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T15:35:36.229Z",
+  "updatedAt": "2026-10-16T15:36:28.954Z",
   "problems": [
     {
       "frontendId": "3280",
@@ -24,6 +24,26 @@
           "path": "leet/3280-convert-date-to-binary/3280-convert-date-to-binary.java",
           "sha": "2ecfd42972183e8cd1b7a4cbcbf143fc02e136e1",
           "lastSyncedAt": "2026-10-16T15:35:36.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "problemName": "3541-find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "folderPath": "leet/3541-find-most-frequent-vowel-and-consonant/",
+      "readmePath": "leet/3541-find-most-frequent-vowel-and-consonant/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3541-find-most-frequent-vowel-and-consonant.java",
+          "path": "leet/3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.java",
+          "sha": "e7ac3dcc265d84fbf5ee80243122d55e7391a8d9",
+          "lastSyncedAt": "2026-10-16T15:36:28.954Z"
         }
       ]
     }
