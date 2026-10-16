@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/monishs777/Leetcode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/monishs777/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monishs777/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/monishs777/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/monishs777/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/monishs777/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/monishs777/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/monishs777/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/monishs777/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/monishs777/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3895-count-digit-appearances](https://github.com/monishs777/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
