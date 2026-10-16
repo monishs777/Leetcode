@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T15:35:47.721Z",
+  "updatedAt": "2026-10-16T15:35:59.256Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -164,6 +164,26 @@
           "path": "leet/3895-count-digit-appearances/3895-count-digit-appearances.java",
           "sha": "af79d33c57bbfd55ae2a1777ffa4a04d847fbf32",
           "lastSyncedAt": "2026-10-16T15:34:31.621Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3959",
+      "title": "Check Good Integer",
+      "slug": "check-good-integer",
+      "problemName": "3959-check-good-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-good-integer/",
+      "folderPath": "leet/3959-check-good-integer/",
+      "readmePath": "leet/3959-check-good-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3959-check-good-integer.java",
+          "path": "leet/3959-check-good-integer/3959-check-good-integer.java",
+          "sha": "74108b2fed55a96525507b73d21f2af4d1484d4b",
+          "lastSyncedAt": "2026-10-16T15:35:59.256Z"
         }
       ]
     }
