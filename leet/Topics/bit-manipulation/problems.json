@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-10-16T15:34:50.560Z",
+  "problems": [
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "leet/1486-xor-operation-in-an-array/",
+      "readmePath": "leet/1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1486-xor-operation-in-an-array.java",
+          "path": "leet/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java",
+          "sha": "bef4b522f2bb9023217bc91e303421a2cdc3dac1",
+          "lastSyncedAt": "2026-10-16T15:34:50.560Z"
+        }
+      ]
+    }
+  ]
+}
