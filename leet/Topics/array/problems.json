@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-10-16T15:34:31.621Z",
+  "problems": [
+    {
+      "frontendId": "3895",
+      "title": "Count Digit Appearances",
+      "slug": "count-digit-appearances",
+      "problemName": "3895-count-digit-appearances",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-digit-appearances/",
+      "folderPath": "leet/3895-count-digit-appearances/",
+      "readmePath": "leet/3895-count-digit-appearances/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3895-count-digit-appearances.java",
+          "path": "leet/3895-count-digit-appearances/3895-count-digit-appearances.java",
+          "sha": "af79d33c57bbfd55ae2a1777ffa4a04d847fbf32",
+          "lastSyncedAt": "2026-10-16T15:34:31.621Z"
+        }
+      ]
+    }
+  ]
+}
