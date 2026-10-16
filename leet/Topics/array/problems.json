@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T15:35:47.721Z",
+  "updatedAt": "2026-10-16T15:36:16.259Z",
   "problems": [
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "leet/2778-sum-of-squares-of-special-elements/",
+      "readmePath": "leet/2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2778-sum-of-squares-of-special-elements.java",
+          "path": "leet/2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
+          "sha": "ebb139ff2303f4804cc11a71b248067faf762358",
+          "lastSyncedAt": "2026-10-16T15:36:16.259Z"
+        }
+      ]
+    },
     {
       "frontendId": "3190",
       "title": "Find Minimum Operations to Make All Elements Divisible by Three",
