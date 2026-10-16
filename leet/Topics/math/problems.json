@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T15:35:00.898Z",
+  "updatedAt": "2026-10-16T15:35:09.402Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -44,6 +44,26 @@
           "path": "leet/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java",
           "sha": "bef4b522f2bb9023217bc91e303421a2cdc3dac1",
           "lastSyncedAt": "2026-10-16T15:34:50.560Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "leet/1688-count-of-matches-in-tournament/",
+      "readmePath": "leet/1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1688-count-of-matches-in-tournament.java",
+          "path": "leet/1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.java",
+          "sha": "62157dcb0b0c65ba7414be1ef1ae39ef1c9f92f3",
+          "lastSyncedAt": "2026-10-16T15:35:09.402Z"
         }
       ]
     },
