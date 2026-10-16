@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-16T15:35:36.229Z",
+  "problems": [
+    {
+      "frontendId": "3280",
+      "title": "Convert Date to Binary",
+      "slug": "convert-date-to-binary",
+      "problemName": "3280-convert-date-to-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-date-to-binary/",
+      "folderPath": "leet/3280-convert-date-to-binary/",
+      "readmePath": "leet/3280-convert-date-to-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3280-convert-date-to-binary.java",
+          "path": "leet/3280-convert-date-to-binary/3280-convert-date-to-binary.java",
+          "sha": "2ecfd42972183e8cd1b7a4cbcbf143fc02e136e1",
+          "lastSyncedAt": "2026-10-16T15:35:36.229Z"
+        }
+      ]
+    }
+  ]
+}
