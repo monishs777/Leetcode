@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T15:35:59.256Z",
+  "updatedAt": "2026-10-16T15:36:08.820Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -84,6 +84,26 @@
           "path": "leet/2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
           "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
           "lastSyncedAt": "2026-10-16T15:35:20.582Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "leet/2469-convert-the-temperature/",
+      "readmePath": "leet/2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2469-convert-the-temperature.java",
+          "path": "leet/2469-convert-the-temperature/2469-convert-the-temperature.java",
+          "sha": "624429d398d86ab9da06c7af6ef31d666e5b92ad",
+          "lastSyncedAt": "2026-10-16T15:36:08.820Z"
         }
       ]
     },
