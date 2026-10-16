@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T15:35:09.402Z",
+  "updatedAt": "2026-10-16T15:35:20.582Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -64,6 +64,26 @@
           "path": "leet/1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.java",
           "sha": "62157dcb0b0c65ba7414be1ef1ae39ef1c9f92f3",
           "lastSyncedAt": "2026-10-16T15:35:09.402Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2396",
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "problemName": "2396-strictly-palindromic-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/strictly-palindromic-number/",
+      "folderPath": "leet/2396-strictly-palindromic-number/",
+      "readmePath": "leet/2396-strictly-palindromic-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2396-strictly-palindromic-number.java",
+          "path": "leet/2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
+          "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
+          "lastSyncedAt": "2026-10-16T15:35:20.582Z"
         }
       ]
     },
