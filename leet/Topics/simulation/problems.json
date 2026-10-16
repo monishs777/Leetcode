@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-16T15:35:09.402Z",
+  "updatedAt": "2026-10-16T15:35:59.256Z",
   "problems": [
     {
       "frontendId": "1688",
@@ -24,6 +24,26 @@
           "path": "leet/1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.java",
           "sha": "62157dcb0b0c65ba7414be1ef1ae39ef1c9f92f3",
           "lastSyncedAt": "2026-10-16T15:35:09.402Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3959",
+      "title": "Check Good Integer",
+      "slug": "check-good-integer",
+      "problemName": "3959-check-good-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-good-integer/",
+      "folderPath": "leet/3959-check-good-integer/",
+      "readmePath": "leet/3959-check-good-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3959-check-good-integer.java",
+          "path": "leet/3959-check-good-integer/3959-check-good-integer.java",
+          "sha": "74108b2fed55a96525507b73d21f2af4d1484d4b",
+          "lastSyncedAt": "2026-10-16T15:35:59.256Z"
         }
       ]
     }
