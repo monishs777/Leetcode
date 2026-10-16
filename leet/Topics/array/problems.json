@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T15:34:31.621Z",
+  "updatedAt": "2026-10-16T15:35:00.898Z",
   "problems": [
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "leet/3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "leet/3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.java",
+          "path": "leet/3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.java",
+          "sha": "383d31762604458b435d43b3c60e5e6172c8c5dc",
+          "lastSyncedAt": "2026-10-16T15:35:00.898Z"
+        }
+      ]
+    },
     {
       "frontendId": "3895",
       "title": "Count Digit Appearances",
