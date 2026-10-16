@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T15:36:28.954Z",
+  "updatedAt": "2026-10-16T15:36:46.899Z",
   "problems": [
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "leet/2942-find-words-containing-character/",
+      "readmePath": "leet/2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2942-find-words-containing-character.java",
+          "path": "leet/2942-find-words-containing-character/2942-find-words-containing-character.java",
+          "sha": "a319036c30d07315171551ecd2ad5765446aa869",
+          "lastSyncedAt": "2026-10-16T15:36:46.899Z"
+        }
+      ]
+    },
     {
       "frontendId": "3280",
       "title": "Convert Date to Binary",
