@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-10-16T15:35:09.402Z",
+  "problems": [
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "leet/1688-count-of-matches-in-tournament/",
+      "readmePath": "leet/1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1688-count-of-matches-in-tournament.java",
+          "path": "leet/1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.java",
+          "sha": "62157dcb0b0c65ba7414be1ef1ae39ef1c9f92f3",
+          "lastSyncedAt": "2026-10-16T15:35:09.402Z"
+        }
+      ]
+    }
+  ]
+}
