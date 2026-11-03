@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/monishs777/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/monishs777/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/monishs777/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/monishs777/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/monishs777/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/monishs777/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/monishs777/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/monishs777/Leetcode/tree/master/0867-transpose-matrix) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/monishs777/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/monishs777/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
