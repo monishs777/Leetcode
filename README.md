@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/monishs777/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2843-count-symmetric-integers](https://github.com/monishs777/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/monishs777/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3270-find-the-key-of-the-numbers](https://github.com/monishs777/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/monishs777/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/monishs777/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/monishs777/Leetcode/tree/master/3894-traffic-signal-color) |
